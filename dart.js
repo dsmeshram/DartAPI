@@ -1,4 +1,3 @@
-
 var dart = function(option){
   dartapi = this;
   dartapi.option = option;
